@@ -1,0 +1,1 @@
+class ClassName {	//ÊôÐÔPublic:	m_PublicAttribute;Private:	m_PrivateAttribute;}ClassName()~ClassName()ClassName* obj = new ClassName();obj->attributeobj->method()
