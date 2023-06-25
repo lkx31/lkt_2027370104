@@ -1,0 +1,7 @@
+﻿  ImageClassify.cpp
+  ImageClassifyDlg.cpp
+D:\文件大三\ImageClassify1\ImageClassify\ImageClassifyDlg.cpp(296,31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件大三\ImageClassify1\ImageClassify\ImageClassifyDlg.cpp(338,40): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+D:\文件大三\ImageClassify1\ImageClassify\ImageClassifyDlg.cpp(353): warning C4715: “ThreadStartClassifyDir”: 不是所有的控件路径都返回值
+  ImageClassify.vcxproj -> D:\文件大三\ImageClassify1\x64\Debug\ImageClassify.exe
